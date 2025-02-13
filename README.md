@@ -18,13 +18,6 @@ Welcome to my GitHub profile! I'm a Software Engineer 👨‍💻 and a graduate
   - Dharmsinh Desai University
   - Graduated: May 2020
 
-## 💼 Professional Experience
-
-- **Software Engineer**
-  - Gateway Group of Companies, Ahmedabad, India
-  - Dec 2019 - Aug 2022
-  - Worked on developing scalable software solutions and contributed to various projects
-
 ## 🔗 Connect with Me
 
 - **LinkedIn:** [rashmigediya](https://www.linkedin.com/in/rashmi-gediya/)
